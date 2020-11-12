@@ -1,6 +1,6 @@
 # Welcome to the Springboot Logging sample!
 
-## Description
+## Overview ☕
 
 - This project has been configured with Logback & contains a predefined logback-spring.xml file.
 - The application.properties contains the log level configuration for the root & webapp.
