@@ -1,0 +1,8 @@
+"2020-10-19 23:58:36 [main] INFO  a.p.s.SpringwebappApplicationTests - Starting SpringwebappApplicationTests on DESKTOP-3TATIV4 with PID 25628 (started by kedubuis in c:\_Code\Java\springwebapp)
+""2020-10-19 23:58:36 [main] DEBUG a.p.s.SpringwebappApplicationTests - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+""2020-10-19 23:58:36 [main] INFO  a.p.s.SpringwebappApplicationTests - No active profile set, falling back to default profiles: default
+""2020-10-19 23:58:38 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-10-19 23:58:38 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+""2020-10-19 23:58:39 [main] INFO  a.p.s.SpringwebappApplicationTests - Started SpringwebappApplicationTests in 2.711 seconds (JVM running for 4.035)
+""2020-10-19 23:58:39 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+"

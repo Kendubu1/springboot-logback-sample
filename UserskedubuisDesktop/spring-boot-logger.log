@@ -1,0 +1,18 @@
+2020-10-19 23:25:00,725 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringwebappApplication on DESKTOP-3TATIV4 with PID 24800 (C:\_Code\Java\springwebapp\target\classes started by kedubuis in C:\_Code\Java\springwebapp)
+2020-10-19 23:25:00,741 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-19 23:25:00,742 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-10-19 23:25:04,007 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringwebappApplication in 3.924 seconds (JVM running for 4.377)
+2020-10-19 23:25:34,192 DEBUG azure.lab.springwebapp.log [http-nio-2020-exec-1] Request ken
+2020-10-19 23:25:34,194 DEBUG azure.lab.springwebapp.log [http-nio-2020-exec-1] Response Hi ken Welcome to Java Azure
+2020-10-19 23:25:38,947 DEBUG azure.lab.springwebapp.log [http-nio-2020-exec-2] Request test
+2020-10-19 23:43:50,499 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringwebappApplication on DESKTOP-3TATIV4 with PID 27284 (C:\_Code\Java\springwebapp\target\classes started by kedubuis in C:\_Code\Java\springwebapp)
+2020-10-19 23:43:50,504 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-19 23:43:50,505 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-10-19 23:43:52,507 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringwebappApplication in 2.624 seconds (JVM running for 2.998)
+2020-10-19 23:44:57,404 ERROR azure.lab.springwebapp.hello [http-nio-8080-exec-3] Error0
+2020-10-19 23:44:59,709 TRACE azure.lab.springwebapp.hello [http-nio-8080-exec-4] Trace Level Logging
+2020-10-19 23:45:06,014 DEBUG azure.lab.springwebapp.log [http-nio-8080-exec-6] Request Ken
+2020-10-19 23:45:06,018 DEBUG azure.lab.springwebapp.log [http-nio-8080-exec-6] Response Hi Ken Welcome to Java Azure
+2020-10-19 23:45:09,448 DEBUG azure.lab.springwebapp.log [http-nio-8080-exec-7] Request testr
+2020-10-19 23:45:09,450 DEBUG azure.lab.springwebapp.log [http-nio-8080-exec-7] Response Hi testr Welcome to Java Azure
+2020-10-19 23:45:12,260 DEBUG azure.lab.springwebapp.log [http-nio-8080-exec-8] Request test
