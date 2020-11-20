@@ -11,5 +11,5 @@
 
 Maven should be used to build this project.
 ```
-mvn package
+mvn package -DskipTests
 ```
